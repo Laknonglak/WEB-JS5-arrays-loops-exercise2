@@ -7,7 +7,7 @@
 
 Open up a text editor of your choice and complete the following Javascript exercises.
 
-### Exercise #1
+### Exercise #2
 
 #### Part 1
 
@@ -23,5 +23,5 @@ What does the queue look like?
 #### Part 3
 
 It turns out David was saving a spot for his friend Renata. She shows up and goes behind him in the line. One more person (Elena) shows up and goes to the end of the line.
-What does the queue look like?
+What does the queue look like? 
 
